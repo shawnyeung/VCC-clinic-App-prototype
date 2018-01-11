@@ -21,4 +21,8 @@ App Store下载 [Principe Mirror](https://itunes.apple.com/us/app/principle-mirr
 7. 与健管师在线沟通 [Demo](https://github.com/shawnyeung/VCC-clinic-App/blob/master/Demo/7-%E4%BA%92%E5%8A%A8-interaction.gif)
 
 
+### 与此App配套的后台管理系统
+原型请见 https://github.com/shawnyeung/VCC-clinic-CRM
+
+
 Feel free to play with it!
